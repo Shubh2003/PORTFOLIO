@@ -1,0 +1,44 @@
+[
+
+    {
+      "name": "Threads Clone",
+      "desc": "Build a App where you can view and share public conversations. you can also post threads, reply to others and follow profiles you're interested in.",
+      "image": "/images/Threads.png",
+      "category": "Machine Learning",
+      "links": {
+        "view": "",
+        "code": "https://github.com/Shubh2003/Ropes"
+      }
+    },
+    {
+      "name": "Blogs App",
+      "desc": "Create a platform for individuals to showcase their expertise, skills, and experiences through blog posts.Allow users to write about topics related to their field of work and personal development.",
+      "image": "/images/blogs.png",
+      "category": "Machine Learning",
+      "links": {
+        "view": "",
+        "code": "https://github.com/Shubh2003/Blog_reactjs"
+      }
+    },
+    {
+      "name": "GDSC Website",
+      "desc": "Build a Website for my college GDSC club using next UI, tailwind css and NextJs",
+      "image": "/images/GDSC.png",
+      "category": "Web Development",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    },
+    {
+      "name": "Portfolio",
+      "desc": "Built a personal portfolio website using Next UI, tailwind css and NextJs.",
+      "image": "/images/portfolio.png",
+      "category": "Web Development",
+      "links": {
+        "view": "",
+        "code": ""
+      }
+    }
+   
+  ]
