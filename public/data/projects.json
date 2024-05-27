@@ -11,13 +11,13 @@
       }
     },
     {
-      "name": "Blogs App",
-      "desc": "Create a platform for individuals to showcase their expertise, skills, and experiences through blog posts.Allow users to write about topics related to their field of work and personal development.",
-      "image": "/images/blogs.png",
+      "name": "Git Resume",
+      "desc": "Generate your resume based on your Github profile at a click.",
+      "image": "/images/git_resume.png",
       "category": "Machine Learning",
       "links": {
         "view": "",
-        "code": "https://github.com/Shubh2003/Blog_reactjs"
+        "code": "https://github.com/Shubh2003/git_resume"
       }
     },
     {

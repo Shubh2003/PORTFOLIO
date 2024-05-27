@@ -72,7 +72,7 @@ export default function Contact() {
         message: message,
       };
 
-      emailjs.send("service_om1ng1n", "template_nwh717v", templateParams).then(
+      emailjs.send("service_ash6cwh", "template_nwh717v", templateParams).then(
         (response) => {
           console.log("SUCCESS!", response.status, response.text);
           setShowModal(true);
