@@ -28,12 +28,11 @@ export default function About() {
           </p>
           <div className="text-center">
             <Button color="secondary" className="mt-4 text-l ">
-              <Link
-                href="/data/Shubham_resume.pdf"
-                target="_blank"
-                download
-              >
-                Download Resume
+              <Link href="/data/Shubham_resume.pdf" target="_blank">
+                   
+                  View Resume
+                  
+               
               </Link>
             </Button>
           </div>
